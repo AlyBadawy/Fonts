@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Cobalt2",
+    "security.workspace.trust.startupPrompt": "always",
+    "editor.fontFamily": "OperatorMonoSSmLig-Book",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "normal",
+    
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "gitlens.statusBar.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.fontSize": 14,
+    "files.autoSave": "onFocusChange",
+    "git.alwaysSignOff": true,
+    "git.autoStash": true,
+    "files.exclude": {
+        "**/node_modules": true
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
